@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"BetterFindBuffer",
+		"ColorPicker",
+		"DocBlockr",
+		"Fix Mac Path",
+		"GitGutter",
+		"JSX",
+		"LESS",
+		"One Half Color Schemes",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"tern_for_sublime",
+		"Theme - Spacegray",
+		"VintageLines",
+		"Zen Tabs"
+	]
+}

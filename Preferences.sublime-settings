@@ -1,0 +1,63 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"color_scheme": "Packages/User/SublimeLinter/OneHalfDark (SL).tmTheme",
+	"draw_minimap_border": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"public"
+	],
+	"font_face": "Sauce Code Powerline",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12.0,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"JavaScript Completions",
+		"MarkdownEditing"
+	],
+	"ignored_words":
+	[
+		"App",
+		"blog"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		72
+	],
+	"save_on_focus_lost": false,
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}

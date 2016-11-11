@@ -1,0 +1,9 @@
+[
+  { "keys": ["super+o"], "command": "goto_symbol_in_project" },
+  { "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+  
+  { "keys": ["super+1"], "command": "toggle_side_bar" },
+  
+  { "keys": ["super+minus"], "command": "fold" },
+  { "keys": ["super+equals"], "command": "unfold" },
+]
